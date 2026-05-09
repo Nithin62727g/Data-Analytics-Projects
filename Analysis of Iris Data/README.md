@@ -18,8 +18,7 @@ Iris-Versicolor: Medium-sized petals (Length 3.0cm – 4.8cm). The "middle groun
 Iris-Virginica: Largest petals (Length > 5.0cm). Consistently the largest flower in the dataset.
 
 5. Final Conclusion
-The analysis proves that Petal measurements are far superior to Sepal measurements for identifying species. Any future machine learning model should prioritize Petal Length and Width for maximum accuracy.![Uploading Iris Flower.png…]()
-s or significant errors were detected during the cleaning phase.
+The analysis proves that Petal measurements are far superior to Sepal measurements for identifying species. Any future machine learning model should prioritize Petal Length and Width for maximum accuracy.
 
 
 If you want to know more about the project description, you reach out to this link : https://roadmap.sh/projects/exploring-iris-dataset
